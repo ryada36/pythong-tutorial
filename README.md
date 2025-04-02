@@ -1,2 +1,1 @@
-# pythong-tutorial
-Python Tutorial
+Written from code
